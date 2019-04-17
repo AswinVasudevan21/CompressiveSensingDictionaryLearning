@@ -13,7 +13,15 @@ The raw signal received from the implant is extremely noisy and difficult to dis
 <img height="150px" src="https://github.com/AswinVasudevan21/CompressiveSensingDictionaryLearning/blob/master/cleaned.png">
 
 ### Compressive Sensing:
-Compressive sensing theory was developed upon the idea that many signals can be represented using only a few non-zero coefficients in a suitable basis or dictionary. We used L0 and L1 minimization techniques as expalined in our report. 
+Compressive sensing theory was developed upon the idea that many signals can be represented using only a few non-zero coefficients in a suitable basis or dictionary. We used L0 and L1 minimization techniques as expalined in our report.
+
+       L0 Minimization:
+        1. Subspace pursuit
+        2. Orthogonal matching pursuit
+       L1 Minimization:
+        1. ALM 
+        2. FISTA
+
 
 ###  Sampling Methods
 The sampling methods we have used for construction of sensing matrix are:
