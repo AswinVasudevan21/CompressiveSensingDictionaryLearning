@@ -1,6 +1,6 @@
 [![matlab version](	https://img.shields.io/badge/Matlab-2016b-blue.svg)](https://github.com/AswinVasudevan21/CompressiveSensingDictionaryLearning/blob/master/README.md)
 
-# Compressive Sensing Dictionary Learning
+# Compressive Sensing on electrophysiological data
 
 ### Objective
 The dataset we are using originates from a collection of electrophysiological data received from electrode implants in the human brain. The implant in the brain collects data and executes basic processing to allow the device to run properly. The electrode implant sends a wireless signal to a receiver outside the human body. This receiver receives the data from the implant and executes a post-processing procedure on the data collected from the electrode. It is in this external receiver that detection of the neuron spikes and sorting of the dataset takes place.
